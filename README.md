@@ -1,0 +1,2 @@
+# nagi
+SQL Language Server
