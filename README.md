@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; flex-direction: column; gap: 0;">
-    <img src="https://raw.githubusercontent.com/nagi-sql/nagi/refs/heads/main/images/logo.svg" alt="Logo" style="display: block; margin: 0;">
+    <img src="https://raw.githubusercontent.com/nagi-sql/nagi/refs/heads/main/images/logo.svg" alt="Logo" style="display: block; margin: 0; width: 50px;">
 </div>
 
 <br>
